@@ -1,0 +1,13 @@
+강의 코드인 Kaggle Notebooks는 링크를 통해 누구나 접근할 수 있습니다.
+
+https://www.kaggle.com/code/hoyso48/chapter-1-ot
+
+https://www.kaggle.com/code/hoyso48/chapter-2-mlp
+
+https://www.kaggle.com/code/hoyso48/chapter-3-cnn
+
+https://www.kaggle.com/code/hoyso48/chaper-4-rnn
+
+https://www.kaggle.com/code/hoyso48/chapter5-transformer
+
+https://www.kaggle.com/code/hoyso48/chapter-6-llm
